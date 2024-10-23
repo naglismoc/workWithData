@@ -1,0 +1,70 @@
+User,Email,Phone Number,Country,Active
+Alice,alice_example@email.com,+37068754321,Lithuania,TRUE
+Bob,bob_example@hotmail.com,65432109,Lithuania,TRUE
+Charlie,charlie_example@email.com,37086543210,Lithuania,FALSE
+David,david_example@email.com,868754321,United States,TRUE
+Eve,eve_example@email.com,37037123456,Lithuania,FALSE
+Frank,frank_example@email.com,+37068754321,Canada,TRUE
+Grace,grace_example@email.com,37068754321,France,FALSE
+Henry,henry_example@email.com,+37068754321,Germany,TRUE
+Iris,iris_example@email.com,37068754321,Italy,FALSE
+Jack,jack_example@email.com,+37068754321,Japan,TRUE
+Kate,kate_example@hotmail.com,37068754321,Korea,FALSE
+Leo,leo_example@email.com,+37068754321,Mexico,TRUE
+Maria,maria_example@email.com,868754321,Norway,FALSE
+Noah,noah_example@email.com,+37068754321,Oman,TRUE
+Olivia,olivia_example@email.com,37068754321,Pakistan,FALSE
+Peter,peter_example@email.com,+37068754321,Qatar,TRUE
+Quinn,quinn_example@email.com,37068754321,Russia,FALSE
+Rachel,rachel_example@email.com,+37068754321,Spain,TRUE
+Samuel,samuel_example@email.com,37068754321,Sweden,FALSE
+Tara,tara_example@email.com,+37068754321,Turkey,TRUE
+Ursula,ursula_example@email.com,37068754321,Ukraine,FALSE
+Victor,victor_example@email.com,+37068754321,United Kingdom,TRUE
+Wendy,wendy_example@email.com,37068754321,United States,FALSE
+Xavier,xavier_example@email.com,+37068754321,Vietnam,TRUE
+Yara,yara_example@email.com,37068754321,Yemen,FALSE
+Zara,zara_example@hotmail.com,+37068754321,Zambia,TRUE
+Alan,alan_example@email.com,37068754321,Zimbabwe,FALSE
+Beth,beth_example@email.com,+37068754321,Australia,TRUE
+Carol,carol_example@email.com,37068754321,Brazil,FALSE
+Daniel,daniel_example@email.com,+37068754321,China,TRUE
+Emily,emily_example@email.com,37068754321,Denmark,FALSE
+Finn,finn_example@email.com,+37068754321,Egypt,TRUE
+Grace,grace_example@email.com,37068754321,Honduras,FALSE
+Henry,henry_example@email.com,+37068754321,India,TRUE
+Iris,iris_example@email.com,37068754321,Indonesia,FALSE
+Jack,jack_example@email.com,+37068754321,Iran,TRUE
+Kate,kate_example@email.com,37068754321,Iraq,FALSE
+Leo,leo_example@email.com,+37068754321,Italy,TRUE
+Maria,maria_example@email.com,37068754321,Jamaica,FALSE
+Noah,noah_example@email.com,+37068754321,Kenya,TRUE
+Olivia,olivia_example@email.com,37068754321,Kuwait,FALSE
+Peter,peter_example@email.com,+37068754321,Laos,TRUE
+Quinn,quinn_example@email.com,37068754321,Lebanon,FALSE
+Rachel,rachel_example@email.com,+37068754321,Libya,TRUE
+Samuel,samuel_example@email.com,37068754321,Malaysia,FALSE
+Tara,tara_example@email.com,+37068754321,Morocco,TRUE
+Ursula,ursula_example@email.com,37068754321,Nepal,FALSE
+Victor,victor_example@email.com,+37068754321,Netherlands,TRUE
+Wendy,wendy_example@gmail.com,37068754321,New Zealand,FALSE
+Xavier,xavier_example@email.com,+37068754321,Nigeria,TRUE
+Yara,yara_example@one.lt,37068754321,Norway,FALSE
+Zara,zara_example@one.lt,+37068754321,Oman,TRUE
+Alan,alan_example@email.com,37068754321,Pakistan,FALSE
+Beth,beth_example@gmail.com,+37068754321,Peru,TRUE
+Carol,carol_example@email.com,37068754321,Philippines,FALSE
+Daniel,daniel_example@email.com,+37068754321,Poland,TRUE
+Emily,emily_example@email.com,37068754321,Portugal,FALSE
+Finn,finn_example@email.com,+37068754321,Romania,TRUE
+Grace,grace_example@email.com,37068754321,Saudi Arabia,FALSE
+Henry,henry_example@email.com,868754321,Singapore,TRUE
+Iris,iris_example@email.com,37068754321,South Africa,FALSE
+Jack,jack_example@email.com,+37068754321,Thailand,TRUE
+Kate,kate_example@email.com,37068754321,United Arab Emirates,FALSE
+Leo,leo_example@email.com,+37068754321,United Kingdom,TRUE
+Maria,maria_example@gmail.com,37068754321,United States,FALSE
+Noah,noah_example@email.com,+37068754321,Uruguay,TRUE
+Olivia,olivia_example@email.com,37068754321,Venezuela,FALSE
+Peter,peter_example@email.com,+370574745784578455674668754321,Wales,TRUE
+Quinn,quinn_example@email.com,3706875,,
